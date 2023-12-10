@@ -1,0 +1,402 @@
+@media screen and (max-width: 1500px) {
+
+    .basket {
+        /*margin-left: 1250px;*/
+    }
+
+}
+
+@media screen and (max-width: 1381px) {
+    .services__button2 {
+        margin-top: 128px;
+    }
+}
+
+@media screen and (max-width: 1371px) {
+    .services__button3 {
+        margin-top: 150px;
+    }
+}
+
+@media screen and (max-width: 1367px) {
+
+    .main {
+        /*width: 100.1%;*/
+    }
+
+    .footer {
+        /*width: 76%;*/
+    }
+
+    .final__list {
+        height: 300px;
+        width: 300px;
+    }
+
+    .final__list {
+        height: 300px;
+        width: 300px;
+    }
+
+    .price-list__name {
+        font-size: 1.7rem;
+    }
+
+    .price-list__price {
+        font-size: 1.2rem;
+    }
+
+    .price-list__text {
+        font-size: 0.9rem;
+        width: 200px;
+        margin-left: 50px;
+    }
+
+    .pohr-katal__photo {
+        width: 330px;
+        height: 330px;
+    }
+
+    .pohr-katal__text1 {
+
+        font-size: 1.9rem;
+
+    }
+
+    .pohr-katal__text2 {
+        margin-top: 35px;
+        font-size: 1.5rem;
+    }
+
+    .katal__info {
+        height: 250px;
+    }
+
+    .katal-text {
+        font-size: 0.9rem;
+    }
+
+    .katal__info.katal {
+        font-size: 1.8rem;
+        margin-top: 20px;
+    }
+
+    .services__pricesp {
+        margin-top: 40px;
+        font-size: 1.4rem;
+    }
+
+    .namesp {
+        font-size: 1.4rem;
+    }
+
+    .name {
+        font-size: 1.4rem;
+    }
+
+    .info {
+        font-size: 0.9rem;
+    }
+
+    .infosp {
+        font-size: 0.9rem;
+    }
+
+    .services__photo {
+        height: 240px;
+        width: 240px;
+    }
+
+    .services__info {
+        font-size: 1rem;
+        margin-left: 40px;
+    }
+
+    .services__price {
+        font-size: 1.5rem;
+    }
+
+    .services__head {
+        font-size: 1.5rem;
+    }
+
+    .services__button2 {
+        margin-top: 128px;
+    }
+
+    .services__button3 {
+        margin-top: 147px;
+    }
+
+    .services {
+        height: 900px;
+        /*width: 100%;*/
+    }
+
+    .help {
+        height: 300px;
+    }
+
+    .header__photo {
+        /*width: 200%;
+        height: 420px;
+        margin-left: 200px;*/
+    }
+
+    .header__title-container {
+        margin-right: 200px;
+
+    }
+}
+
+@media screen and (max-width: 1367px) {
+    .services__button3 {
+        margin-top: 128px;
+    }
+}
+
+@media screen and (max-width: 1308px) {
+    .services__button1 {
+        margin-top: 110px;
+    }
+}
+
+
+@media screen and (max-width: 1120px) {
+    .body {
+        width: 100%;
+    }
+
+    /*.main {
+        width: 100%;
+    }*/
+
+    .footer {
+        /*width: 70%; ?????????????????????*/
+        padding-left: 100px;
+    }
+
+    .socials__cont {
+        width: 150px;
+    }
+
+    .pohr-katal__price-list {
+        /*width: 116.3%;*/
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .final__list {
+        height: 200px;
+        width: 600px;
+        margin-top: 50px;
+    }
+
+    .pohr-katal__price-list {
+        height: 900px;
+    }
+
+    .price-list__text {
+        margin-left: 200px;
+    }
+
+    .pohr-katal__main {
+        height: 600px;
+        /* width: 100%;*/
+    }
+
+    .pohr-katal__text2 {
+        font-size: 1.48rem;
+    }
+
+    .services__button2 {
+        margin-top: 110px;
+    }
+
+    .navigation__list {
+        margin-left: -40px;
+    }
+
+}
+
+@media screen and (max-width: 1000px) {
+    .body {
+        width: 100%;
+    }
+
+    .services_main {
+        width: 90%;
+        padding-right: 0;
+
+    }
+
+    .services__photo {
+        width: 150px;
+        height: 150px;
+        margin-left: 0;
+    }
+
+    .services__menu {
+        margin: 0;
+        width: 238.08;
+        height: 500px;
+    }
+
+    .services__price {
+        margin-left: 20px;
+    }
+
+    .services__info {
+        margin-left: 35px;
+    }
+
+    .services__button1 {
+        width: 150px;
+        font-size: 1rem;
+    }
+
+    .services__button2 {
+        width: 150px;
+        font-size: 1rem;
+    }
+
+    .services__button3 {
+        width: 150px;
+        font-size: 1rem;
+    }
+
+    .rectangle {
+        margin-top: 60px;
+        width: 500px;
+        border: 2px solid #96a2ad;
+        box-shadow: 4px 4px 5px #a5bed5
+    }
+
+    .fields {
+        width: 100%;
+
+    }
+
+    .enter {
+        margin-left: -10px;
+        width: 300px;
+    }
+
+    .enter-contact {
+        height: 700px;
+        border-bottom: #96a2ad solid;
+    }
+
+    .enter-contact__recall {
+        margin-left: 130px;
+    }
+
+    .enter-contact__private {
+        margin-left: 10px;
+    }
+
+    .navigation__list {
+        flex-direction: column;
+        margin-top: -75px;
+    }
+
+    .navigation__button {}
+
+    .navigation__container {
+        width: 100%;
+    }
+
+    .navigation {
+        height: 200px;
+    }
+
+    .pohr-katal__main {
+        height: 800px;
+
+        /* width: 100%;*/
+    }
+
+    .pohr-katal__main1 {
+        flex-direction: column;
+        align-items: center;
+        /* width: 100%;*/
+    }
+
+    .pohr-katal__text {
+        margin-top: 10px;
+        align-items: center;
+        margin-left: -50px;
+    }
+
+    .pohr-katal__text1 {
+        /*text-align: center;*/
+    }
+
+    .pohr-katal__text2 {
+        text-align: center;
+    }
+
+    .pohr-katal__photo {
+        margin-top: -40px;
+        margin-left: 20px;
+    }
+
+    .katal-text {
+        width: 600px;
+    }
+
+    .footer {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .enter-contact__background {
+        width: 100%;
+        /*height: 100%;*/
+        position: absolute;
+        display: none
+    }
+
+    .enter-contact__background {
+        display: none;
+    }
+
+    .name {
+        font-size: 1.2rem;
+    }
+
+    .namesp {
+        font-size: 1.2rem;
+    }
+
+    .info {
+        font-size: 0.8rem;
+    }
+
+    .infosp {
+        font-size: 0.8rem;
+    }
+
+    .services__pricesp {
+        font-size: 1rem;
+        text-align: center;
+
+        margin-left: 10px;
+    }
+
+    .btn-up::before {}
+
+    .btn-up {}
+}
+
+@media (min-width: 1000px) {
+    img {
+        display: block;
+    }
+}
+@media (min-width: 1000px) {
+    img {
+        display: block;
+    }
+}
